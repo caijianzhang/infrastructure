@@ -1,0 +1,6 @@
+#system
+#ignore mac .DS_Srore files
+*.DS_Store
+
+#c/c++
+*.o
